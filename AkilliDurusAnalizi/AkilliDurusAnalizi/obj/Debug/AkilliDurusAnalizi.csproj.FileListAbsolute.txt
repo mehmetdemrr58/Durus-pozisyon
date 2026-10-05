@@ -1,0 +1,10 @@
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\bin\Debug\AkilliDurusAnalizi.exe.config
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\bin\Debug\AkilliDurusAnalizi.exe
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\bin\Debug\AkilliDurusAnalizi.pdb
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.csproj.AssemblyReference.cache
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.Form1.resources
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.exe
+C:\Users\Mehmet\source\repos\AkilliDurusAnalizi\AkilliDurusAnalizi\obj\Debug\AkilliDurusAnalizi.pdb
